@@ -2,6 +2,9 @@
 Four Card Feature Section Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
 Coded by <a href="github.com/wesnds">Weslley dos Santos</a>.
 
+![desktop-design](https://user-images.githubusercontent.com/48526020/140613745-b16444f7-972b-4d14-ba66-2f3a73801f6c.jpg)
+
+
 ## Frontend Mentor - Single Price Grip Component
 
 ### Welcome! 👋
